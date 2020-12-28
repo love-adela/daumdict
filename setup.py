@@ -13,6 +13,6 @@ setup(name="daumdict",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
       ],
-      install_requires=["requests"],
+      install_requires=["requests", "BeautifulSoup4"],
       python_requires=">=3.8",
 )
