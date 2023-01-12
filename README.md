@@ -11,7 +11,7 @@ pip install daumdict
 
 ## Usage
 ```
-python3 daumdict en plate # plate: 1.판 2.플레이트 3.접시 4.번호판 5.지각판
+python3 d en plate # plate: 1.판 2.플레이트 3.접시 4.번호판 5.지각판
 ```
 
 ## Contributing
