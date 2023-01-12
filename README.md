@@ -1,5 +1,5 @@
 # daumdict
-daumdict is a Python library for translating Japanese and English into Korean using [Daum dictionary](https://dic.daum.net/).
+daumdict is a Python library for translating English into Korean using [Daum dictionary](https://dic.daum.net/).
 
 ## Installation
 
