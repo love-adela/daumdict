@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(name="daumdict",
-      version="0.1",
+      version="0.2",
       description="find a word from daum dict.",
       url="https://github.com/love-adela/daumdict",
       author="love-adela",
